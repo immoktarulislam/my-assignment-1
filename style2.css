@@ -1,0 +1,142 @@
+
+.fira-sans-thin {
+    font-family: "Fira Sans", serif;
+    font-weight: 100;
+    font-style: normal;
+  }
+
+
+  /* nav style */
+  nav{
+    display: flex;
+    justify-content: space-between;
+  }
+.nav-title{
+    font-weight: bold;
+    color: #0E0E0E;
+}
+
+
+/* banner style */
+.banner{
+   display: flex; 
+   background-color: #C6E4D6;
+   border-radius:20px;
+   width: 1280px;
+   height: 560px;
+   padding: 100px 80px;
+   
+}
+
+.banner-profile-picture{
+    width: 474.03px;
+}
+
+.banner-conten {
+    
+}
+
+.h6-style{ 
+    font-weight: medium; font-size: 24px; color: #0E0E0E;
+    opacity: 100%;
+
+}
+
+.h3-style{
+    font-weight: bold; font-size: 56px;
+}
+
+.btn-banner{
+    background-color:#006A50;
+    font-weight: semi bold;
+    font-size: 18px;
+    color: white;
+    padding:  17px 34px;
+    border-radius: 15px;
+}
+
+/* paln style */
+.plan-item{
+    display: flex; gap: 24px;
+}
+
+.plan{
+    padding: 24px 24px; 
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+.section-title{
+    color: rgba(14, 14, 14, 1);
+    font-size: 24px; font-weight: bold;
+}
+
+/* FUTURE STYLE */
+.future-item{
+    display: flex; gap: 24px;  justify-content: none;
+}
+.future-one{
+    background-color: #5490F5;
+    border-radius: 10px;
+    width: 410px; height: 325px; padding: 32px 32px;
+}
+
+.future-two{
+    background-color: #C6E4D6;
+    border-radius: 10px;
+    width: 410px; height: 325px; padding: 32px 32px;
+}
+
+.future-three{
+    background-color: #F7EBCF;
+    border-radius: 10px;
+    width: 410px; height: 325px; padding: 32px 32px;
+    
+}
+
+future-title{
+    font-weight: bold; font-size: 56px;
+}
+
+/* launch1-part style*/
+.launch1-part{
+    display: flex;
+    margin-top: 50px;
+    gap: 32px;
+}
+.launch2-part{
+    display: flex;
+    margin-top: 50px;
+    gap: 32px;
+}
+
+/* donate-part-style */
+.donate-part{
+    margin-top: 50px;
+    justify-content: center;
+    text-align: center;}
+
+.donate-part-title{
+    text-align: center; font-weight: bold; font-size: 40px;
+     }
+
+.donate-btn{
+    font-weight: bold; font-size: 40px;}
+
+.donate-btn1{
+   text-align: center;}
+   .donate-btn2{}  
+.donate-part-dscr{
+    font-weight: regular; font-size: 16px;
+}
+
+.btn-color{
+    background-color: #C6E4D6 ;
+}
+
+/* here subscribe part start  */
+footer.subscribe-part{
+    width: 622px; height: 48px;
+    text-align: center; justify-content: center;
+
+}
+   
